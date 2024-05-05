@@ -3,7 +3,7 @@
 /* ==============================================
  *  Shape.java : The superclass of all shapes.
  *  A shape defines various properties, including selected, colour, width and height.
- *  YOUR UPI: hxza301
+ *  
  *  ===============================================================================
  */
 import java.awt.*;
